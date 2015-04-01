@@ -1,10 +1,10 @@
 {
   "name": "gulp-starter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Gulp Starter, Helen V. Holmes",
   "repository": {
     "type": "git",
-    "url": "git://github.kdc.capitalone.com/helenvholmes/gulp-starter.git"
+    "url": "https://github.com/helenvholmes/gulp-starter.git"
   },
   "devDependencies": {
     "browser-sync": "~1.3.6",
