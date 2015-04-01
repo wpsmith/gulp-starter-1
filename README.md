@@ -1,6 +1,6 @@
 # Gulp Starter
 
-A web application starter using [Gulp](http://gulpjs.com/), [node-sass](https://github.com/sass/node-sass), [Browserify](http://browserify.org/), [Browsersync](http://www.browsersync.io/), [Imagemin](https://www.npmjs.com/package/gulp-imagemin), [Gulp-notify](https://github.com/mikaelbr/gulp-notify), [Jade](http://jade-lang.com/), and [Watchify](https://github.com/substack/watchify) for super fast builds.
+A web application starter using [Gulp](http://gulpjs.com/), [node-sass](https://github.com/sass/node-sass), [Browserify](http://browserify.org/), [Browsersync](http://www.browsersync.io/), [Imagemin](https://www.npmjs.com/package/gulp-imagemin), [Gulp-notify](https://github.com/mikaelbr/gulp-notify), [Jade](http://jade-lang.com/), and [Watchify](https://github.com/substack/watchify) for super fast builds. Built off of [Dan Tello's Gulp Starter](https://github.com/greypants/gulp-starter) which is really rad.
 
 ## Getting Started
 First of all, this project assumes you have [Node](http://nodejs.org/) installed. If you don't, install that first.
