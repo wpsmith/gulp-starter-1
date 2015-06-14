@@ -37,4 +37,4 @@ This project uses an ```.editorconfig```. This allows us to make sure that thing
 If you don't have a plugin for your editor of choice, you can [download plugins for EditorConfig from the EditorConfig site](http://editorconfig.org/#download).
 
 ## Why is ```build/``` not in the ```.gitignore```?
-```build/``` is not in the ```.gitignore``` because it needs to be tracked in order for the ```gulp deploy``` function to work. Annoying, but necessary. If you have suggestions that would make working with this easier consider [contributing back](https://github.kdc.capitalone.com/helenvholmes/gulp-starter/compare/).
+```build/``` is not in the ```.gitignore``` because it needs to be tracked in order for the ```gulp deploy``` function to work. Annoying, but necessary. Also, it doesn't work with username repos (e.g., ```helenvholmes.github.io```). If you have suggestions that would make working with this easier consider [contributing back](https://github.kdc.capitalone.com/helenvholmes/gulp-starter/compare/).
